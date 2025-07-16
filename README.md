@@ -1,7 +1,7 @@
 # Analysis scripts for condensate analysis and burst modeling in biological imaging data
 ## Overview
 
-This repository contains scrips associated with the paper "Pulsatile fusion of enhancer and promoter condensates drives transcriptional bursting". It aims to support high-throughput quantitative analysis of super-resolution images and time series data, focusing on dynamic processes such as transcriptional bursting and condensate dynamics.
+This repository contains scrips associated with the paper "**Pulsatile fusion of enhancer and promoter condensates drives transcriptional bursting**". It aims to support high-throughput quantitative analysis of super-resolution images and time series data, focusing on dynamic processes such as transcriptional bursting and condensate dynamics.
 
 ## Parts of burst modeling
 
@@ -86,3 +86,10 @@ This MATLAB script processes 4-channel time-lapse fluorescence images at the sin
     - Distance measurements between foci and condensates
 
 This script transforms raw time-lapse image data into quantitative single-cell and subnuclear features for later statistical analysis.
+
+## Citation
+
+If you use this code, please cite the original paper.
+
+For questions, please open an Issue on GitHub or contact the author: wangbo@stu.pku.edu.cn.
+
